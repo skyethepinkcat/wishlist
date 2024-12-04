@@ -23,7 +23,9 @@
 
   a {
     color: #4e8cff;
-
+  }
+  a.btn {
+    color: #var(--fg-color);
   }
 
 }
