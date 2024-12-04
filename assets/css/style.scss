@@ -25,9 +25,6 @@
   a {
     color: var(--link-color);
   }
-  a.btn {
-    color: var(--fg-color);
-  }
 
 }
 
@@ -50,4 +47,8 @@ body {
   -webkit-text-stroke-color: black;
   text-align: center;
   background-image: linear-gradient(120deg, var(--grad-start-color) 60%, var(--grad-end-color));
+}
+
+a.btn {
+  display: none;
 }
