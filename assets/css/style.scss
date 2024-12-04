@@ -4,10 +4,10 @@
 @import "{{ site.theme }}";
 
 :root {
-  --bg-color: inherit;
+  --bg-color: #EEEEEE;
   --header-color: #000000;
-  --grad-start-color: #fdeeed;
-  --grad-end-color: #fdeeed;
+  --grad-start-color: #EEEEEE;
+  --grad-end-color: #EEEEEE;
   --link-color: inherit;
   --fg-color: inherit;
 }
