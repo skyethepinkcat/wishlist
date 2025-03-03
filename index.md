@@ -27,6 +27,8 @@ something in any price range on my [steam wishlist](https://store.steampowered.c
 ## Misc
 
 - T shirts !
+- Largish mugs!
+- Things I will need for my apartment? (not sure of specifics)
 - Money
 - Money
 - More money
