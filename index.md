@@ -20,7 +20,7 @@ something in any price range on my [steam wishlist](https://store.steampowered.c
 
 ## Books and Media
 
-- [Monogatari Series Box Set](https://www.amazon.com/MONOGATARI-Box-Set-Limited-NISIOISIN/dp/1947194399/)
+- [Monogatari Series Box Set ($55)](https://www.amazon.com/MONOGATARI-Box-Set-Limited-NISIOISIN/dp/1947194399/)
 - [Libro.fm Subscription ($45-$180)](https://libro.fm/gift)
 - [Rakuten Kobo Gift Cards](https://www.kobo.com/us/en/p/giftcards )
 
