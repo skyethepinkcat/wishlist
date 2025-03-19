@@ -16,7 +16,7 @@
 - [2DS XL Used is Fine (&le; $200)](https://www.amazon.com/dp/B075BD7RYX/ref=twister_B075MJLB5B?_encoding=UTF8&psc=1)
 - [The Legend of Zelda: Echoes of Wisdom ($60)](https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-119253/)
 - If you really want to buy me something else you can likely find
-something in any price range on my [steam wishlist](https://store.steampowered.com/wishlist/profiles/76561198130985823/#sort=order)
+something for any price range on my [steam wishlist](https://store.steampowered.com/wishlist/profiles/76561198130985823/#sort=order)
 
 ## Books and Media
 
@@ -28,6 +28,7 @@ something in any price range on my [steam wishlist](https://store.steampowered.c
 
 - T shirts !
 - Largish mugs!
+- [Laptop Desk ($27)](https://www.amazon.com/BUYIFY-Portable-Foldable-Adjustable-Breakfast/dp/B0D3CZL7FB/)
 - Things I will need for my apartment? (not sure of specifics)
 - Money
 - Money
@@ -35,4 +36,4 @@ something in any price range on my [steam wishlist](https://store.steampowered.c
 - i am technically below the poverty line
 - Starbucks + Dunkin gift cards!
 - Maybe a bike or something???
-- Donate however much to the [PCRF](https://www.pcrf.net/) or similar
+- Donate however much to the [PCRF](https://www.pcrf.net/) or whatever charity I'd support
