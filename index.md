@@ -4,6 +4,7 @@
 
 - Starred (★) entries are priority, otherwise they are unordered
 - Sublists are things I want if I get the original list item
+
 ## Technology
 
 - [Roku Ultra or Equivalent (with ethernet) ($100/$69 Black Friday)](https://www.amazon.com/Roku-Streaming-Stick-HD-2025)
@@ -22,6 +23,7 @@
 - [Xenoblade Chronicles X ($60/$53 Black Friday)](https://www.amazon.com/Xenoblade-Chronicles-X-Definitive-Nintendo-Switch/dp/B0DLK17ZY5/)
 - If you really want to buy me something else you can likely find something for any price range on my
     [steam wishlist](https://store.steampowered.com/wishlist/profiles/76561198130985823/#sort=order)
+
 ## Books and Media
 
 - [Monogatari Series Box Set 2 ($50)](https://www.amazon.com/Monogatari-Box-Set-Season-2/dp/1949980065/)
