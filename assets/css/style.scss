@@ -42,9 +42,9 @@ body {
 }
 
 .page-header {
-  color: var(--bg-color);
+  color: #fff;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: var(--fg-color);
+  -webkit-text-stroke-color: black;
   text-align: center;
   background-image: linear-gradient(120deg, var(--grad-start-color) 60%, var(--grad-end-color));
 }
