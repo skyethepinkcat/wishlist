@@ -3,7 +3,7 @@
 ## Notes on Formatting
 
 - Starred (★) entries are priority, otherwise they are unordered
-- Sublists are things I want if I get the original list item
+- Sublists are things I want if I get the original list item.
 
 ## Technology
 
@@ -36,7 +36,13 @@
 - Benkyo (Japanese learning app) Subscription
     - Currently $60 for lifetime as a Black Friday deal, but you can't just give it as a gift or wait so you'd just have to give me the money rn.
     - Otherwise, $60/year
-- Furniture (ask what I need!)
+- Furniture
+    - Dining Table (small, ideally square) + Chairs
+    - Patio Table + Chairs
+    - TV Stand
+    - Nice looking shelves/bookcase
+- Cookware 
+    - Peeling tool (idk what it to call it, to peel carrots)
 - Vacuum
 - Clothes?
 - Money
