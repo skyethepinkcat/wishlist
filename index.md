@@ -33,6 +33,9 @@
 ## Misc
 
 - [Laptop Desk ($27)](https://www.amazon.com/BUYIFY-Portable-Foldable-Adjustable-Breakfast/dp/B0D3CZL7FB/)
+- Benkyo (Japanese learning app) Subscription
+    - Currently $60 for lifetime as a Black Friday deal, but you can't just give it as a gift or wait so you'd just have to give me the money rn.
+    - Otherwise, $60/year
 - Furniture (ask what I need!)
 - Vacuum
 - Clothes?
