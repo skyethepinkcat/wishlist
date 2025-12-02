@@ -18,6 +18,7 @@
 
 - [Japanese Riichi Mahjong Set ($70/$58 Black Friday)](https://www.amazon.com/Yellow-Mountain-Imports-Japanese-Mah-Jongg/dp/B003UU129U/)
     - [Mahjong Mat ($53)](https://www.amazon.com/Accskzo-Premium-Mahjong-Storage-Grooves/dp/B0F2M9L5JB/)
+    - [Mahjong Compass ($13)](https://www.amazon.com/dp/B0CWD4ZJFW)
 - [Switch 2 ($500)](https://www.amazon.com/Nintendo-Switch-Mario-World-Bundle-2/dp/B0FC5FJZ9Z/)
     - Kirby Air Riders
 - [Xenoblade Chronicles X ($60/$53 Black Friday)](https://www.amazon.com/Xenoblade-Chronicles-X-Definitive-Nintendo-Switch/dp/B0DLK17ZY5/)
