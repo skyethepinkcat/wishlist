@@ -1,4 +1,4 @@
-# Wishlist 
+# Wishlist
 
 ## Notes on Formatting
 
@@ -7,21 +7,15 @@
 
 ## Technology
 
-- [Roku Ultra or Equivalent (with ethernet) ($100/$69 Black Friday)](https://www.amazon.com/Roku-Streaming-Stick-HD-2025)
-- [HDMI Switch ($43/$25 Black Friday)](https://www.amazon.com/Anker-Switcher-Compatible-Projector-Batteries/dp/B0CLNPGGMC/)
-- [USB-A to Audio ($8/$5 Black Friday)](https://www.amazon.com/Adapter-Braided-Headphones-Speaker-Desktops/dp/B0F244SYLQ/)
-- [Anker MagSafe Charger Station ($90/$75 Black Friday)](https://www.amazon.com/Anker-MagGo-Wireless-Charging-Station/dp/B0DDQ71B9P/)
 - [Apple Watch SE 3 (White) ($250/$200 Black Friday)](https://www.amazon.com/Apple-Smartwatch-Starlight-Aluminum-Always/dp/B0FQFNRH72/)
-- [Anker Charger ($40/$24 Black Friday)](https://www.amazon.com/Anker-Charger-Compact-Foldable-MacBook/dp/B09C5RG6KV)
+- Step stool
+- Pay me back for the storage array I panic bought (\$80 * 3 for hard drives and \$200 for enclosure)
 
 ## Games
 
-- [Japanese Riichi Mahjong Set ($70/$58 Black Friday)](https://www.amazon.com/Yellow-Mountain-Imports-Japanese-Mah-Jongg/dp/B003UU129U/)
-    - [Mahjong Mat ($53)](https://www.amazon.com/Accskzo-Premium-Mahjong-Storage-Grooves/dp/B0F2M9L5JB/)
-    - [Mahjong Compass ($13)](https://www.amazon.com/dp/B0CWD4ZJFW)
 - [Switch 2 ($500)](https://www.amazon.com/Nintendo-Switch-Mario-World-Bundle-2/dp/B0FC5FJZ9Z/)
     - Kirby Air Riders
-- [Xenoblade Chronicles X ($60/$53 Black Friday)](https://www.amazon.com/Xenoblade-Chronicles-X-Definitive-Nintendo-Switch/dp/B0DLK17ZY5/)
+- [Pokemon Legends: Z-A](https://www.nintendo.com/us/store/products/pokemon-legends-z-a-switch/)
 - If you really want to buy me something else you can likely find something for any price range on my
     [steam wishlist](https://store.steampowered.com/wishlist/profiles/76561198130985823/#sort=order)
 
@@ -42,8 +36,10 @@
     - Patio Table + Chairs
     - TV Stand
     - Nice looking shelves/bookcase
-- Cookware 
+- Cookware
     - Peeling tool (idk what it to call it, to peel carrots)
+    - more pots
+
 - Vacuum
 - Clothes?
 - Money
