@@ -16,29 +16,30 @@
 
 - [Switch 2 ($500)](https://www.amazon.com/Nintendo-Switch-Mario-World-Bundle-2/dp/B0FC5FJZ9Z/)
     - Kirby Air Riders
-- [Pokemon Legends: Z-A (Switch 1) ($60)](https://www.nintendo.com/us/store/products/pokemon-legends-z-a-switch/)
 - If you really want to buy me something else you can likely find something for any price range on my
     [steam wishlist](https://store.steampowered.com/wishlist/profiles/76561198130985823/#sort=order)
 
 ## Books and Media
 
-- [Monogatari Series Box Set 2 ($50)](https://www.amazon.com/Monogatari-Box-Set-Season-2/dp/1949980065/)
+- [Monogatari Final Season Box Set ($70)](https://www.amazon.com/MONOGATARI-Box-Set-Final-Season/dp/1949980863)
 <!-- - [Libro.fm Subscription ($45-$180)](https://libro.fm/gift) -->
 - [Rakuten Kobo Gift Cards](https://www.kobo.com/us/en/p/giftcards)
+
+
+## Anime Merch
+- [Taito-Monogatari Senjougahara Figure ($32)](https://www.amazon.com/Taito-Monogatari-Desktop-Cute-Figure-Senjougahara/dp/B0DZFWZXJX/)
 
 ## Cookware
 Note: Most of this stuff is "the first thing I saw on amazon." If you know a better version, please get that.
 
-- [Rice strainer ($10)](https://www.amazon.com/Inomata-Japanese-Washing-Strainer-quart/dp/B00N2WERLG)
-- [Skimmer ($7)](https://www.amazon.com/Hiware-Stainless-Steel-Skimmer-Spoon/dp/B076S9744K)
+- [Zorirushi Rice Cooker ($160) (This brand specifically!)](https://www.amazon.com/Zojirushi-NS-WAC10-WD-5-5-Cup-Uncooked-Cooker/dp/B00ISPBXDM)
 - [Peeler ($12)](https://www.amazon.com/Linden-Sweden-Original-Vegetable-Peeler/dp/B00176JEY4)
-- Microwave Safe Glass "Tupperware" (not plastic)
+- [Skimmer ($7)](https://www.amazon.com/Hiware-Stainless-Steel-Skimmer-Spoon/dp/B076S9744K)
 - more pots
 
 ## Misc
 
 - [Laptop Desk ($27)](https://www.amazon.com/BUYIFY-Portable-Foldable-Adjustable-Breakfast/dp/B0D3CZL7FB/)
-- [Step Ladder (Link is an example, if you know one for a better price just get that) ($30)](https://www.amazon.com/HBTower-Cushioned-Capacity-Anti-Slip-Ergonomic/dp/B0CHJMLZ94)
 - Furniture
     - Dining Table (small, ideally square) + Chairs
     - Patio Table + Chairs
